@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ATMModelStoreContainer" CdmEntityContainer="ATMEntities">
+    <EntitySetMapping Name="PROBLEM_MANAGEMENT">
+      <EntityTypeMapping TypeName="ATMModel.PROBLEM_MANAGEMENT">
+        <MappingFragment StoreEntitySet="PROBLEM_MANAGEMENT">
+          <ScalarProperty Name="LOG_SERIAL_NUMBER" ColumnName="LOG_SERIAL_NUMBER" />
+          <ScalarProperty Name="TICKET_ID" ColumnName="TICKET_ID" />
+          <ScalarProperty Name="TERMINAL_ID" ColumnName="TERMINAL_ID" />
+          <ScalarProperty Name="WORKFLOW_ID" ColumnName="WORKFLOW_ID" />
+          <ScalarProperty Name="THIRD_PARTY_TICKET_ID" ColumnName="THIRD_PARTY_TICKET_ID" />
+          <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+          <ScalarProperty Name="DEVICE_UNIT" ColumnName="DEVICE_UNIT" />
+          <ScalarProperty Name="PROBLEM_CODE" ColumnName="PROBLEM_CODE" />
+          <ScalarProperty Name="TASK_GROUP_CODE" ColumnName="TASK_GROUP_CODE" />
+          <ScalarProperty Name="TASK_USER_CODE" ColumnName="TASK_USER_CODE" />
+          <ScalarProperty Name="CREATE_DATE" ColumnName="CREATE_DATE" />
+          <ScalarProperty Name="CREATE_USER_CODE" ColumnName="CREATE_USER_CODE" />
+          <ScalarProperty Name="PROBLEM_START_TIME" ColumnName="PROBLEM_START_TIME" />
+          <ScalarProperty Name="PROBLEM_END_TIME" ColumnName="PROBLEM_END_TIME" />
+          <ScalarProperty Name="IS_MANUAL" ColumnName="IS_MANUAL" />
+          <ScalarProperty Name="EXPLANATION" ColumnName="EXPLANATION" />
+          <ScalarProperty Name="UPDATING_CHANNEL_CODE" ColumnName="UPDATING_CHANNEL_CODE" />
+          <ScalarProperty Name="UPDATING_TRAN_CODE" ColumnName="UPDATING_TRAN_CODE" />
+          <ScalarProperty Name="UPDATING_USER_CODE" ColumnName="UPDATING_USER_CODE" />
+          <ScalarProperty Name="UPDATE_DATE" ColumnName="UPDATE_DATE" />
+          <ScalarProperty Name="RECORD_STATUS" ColumnName="RECORD_STATUS" />
+          <ScalarProperty Name="THIRD_PARTY_NAME" ColumnName="THIRD_PARTY_NAME" />
+          <ScalarProperty Name="MAINTENANCE_LEVEL" ColumnName="MAINTENANCE_LEVEL" />
+          <ScalarProperty Name="REFERANCE_NUMBER" ColumnName="REFERANCE_NUMBER" />
+          <ScalarProperty Name="STATUS_LOG_ID" ColumnName="STATUS_LOG_ID" />
+          <ScalarProperty Name="SUPPLY_LOG_ID" ColumnName="SUPPLY_LOG_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

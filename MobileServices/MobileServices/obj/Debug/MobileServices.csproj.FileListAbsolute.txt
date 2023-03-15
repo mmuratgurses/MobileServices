@@ -1,0 +1,370 @@
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\MobileServices.dll.config
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\MobileServices.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\MobileServices.pdb
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\csc.exe
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\csc.exe.config
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\csc.rsp
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\csi.exe
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\csi.exe.config
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\csi.rsp
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.AppContext.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Console.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Net.Http.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Net.Sockets.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\vbc.exe
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\vbc.exe.config
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\vbc.rsp
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\Antlr3.Runtime.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\Newtonsoft.Json.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Net.Http.Formatting.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Helpers.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Http.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Http.WebHost.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Mvc.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Optimization.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Razor.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.WebPages.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\WebGrease.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\Newtonsoft.Json.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Net.Http.Formatting.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Helpers.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Http.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Http.WebHost.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Mvc.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Optimization.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.Razor.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.WebPages.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\Antlr3.Runtime.pdb
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\obj\Debug\MobileServices.csproj.CoreCompileInputs.cache
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\obj\Debug\MobileServices.csproj.CopyComplete
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\obj\Debug\MobileServices.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\obj\Debug\MobileServices.pdb
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\ATMDataAccess.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\ATMDataAccess.pdb
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\ATMDataAccess.dll.config
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\obj\Debug\MobileServices.csprojAssemblyReference.cache
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\EntityFramework.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\EntityFramework.xml
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\EntityFramework.SqlServer.dll
+C:\Users\burtuf\source\repos\MobileServices\MobileServices\bin\EntityFramework.SqlServer.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\MobileServices.dll.config
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\MobileServices.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\MobileServices.pdb
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\csc.exe
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\csc.exe.config
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\csc.rsp
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\csi.exe
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\csi.exe.config
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\csi.rsp
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.AppContext.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Console.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Net.Http.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Net.Sockets.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\vbc.exe
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\vbc.exe.config
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\vbc.rsp
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\Antlr3.Runtime.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\ATMDataAccess.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\EntityFramework.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\EntityFramework.SqlServer.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\Newtonsoft.Json.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Net.Http.Formatting.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Helpers.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Http.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Http.WebHost.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Mvc.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Optimization.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Razor.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.WebPages.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\WebGrease.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\ATMDataAccess.pdb
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\ATMDataAccess.dll.config
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\EntityFramework.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\EntityFramework.SqlServer.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\Newtonsoft.Json.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Net.Http.Formatting.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Helpers.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Http.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Http.WebHost.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Mvc.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Optimization.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.Razor.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.WebPages.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\Antlr3.Runtime.pdb
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\obj\Debug\MobileServices.csproj.AssemblyReference.cache
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\obj\Debug\MobileServices.csproj.CoreCompileInputs.cache
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\obj\Debug\MobileServices.csproj.CopyComplete
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\obj\Debug\MobileServices.dll
+C:\Users\burtuf\Desktop\MobileServices\MobileServices\obj\Debug\MobileServices.pdb
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\MobileServices.dll.config
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\MobileServices.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\MobileServices.pdb
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\csc.exe
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\csc.exe.config
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\csc.rsp
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\csi.exe
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\csi.exe.config
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\csi.rsp
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.AppContext.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Collections.Immutable.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Console.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Globalization.Calendars.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.IO.Compression.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.IO.FileSystem.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Net.Http.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Net.Sockets.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.ValueTuple.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Xml.XPath.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\vbc.exe
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\vbc.exe.config
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\vbc.rsp
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\VBCSCompiler.exe
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\roslyn\VBCSCompiler.exe.config
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\Antlr3.Runtime.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\ATMDataAccess.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\EntityFramework.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\EntityFramework.SqlServer.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\Microsoft.Web.Infrastructure.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\Newtonsoft.Json.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Net.Http.Formatting.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Helpers.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Http.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Http.WebHost.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Mvc.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Optimization.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Razor.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.WebPages.Deployment.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.WebPages.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.WebPages.Razor.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\WebGrease.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\ATMDataAccess.pdb
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\ATMDataAccess.dll.config
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\EntityFramework.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\EntityFramework.SqlServer.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\Newtonsoft.Json.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Net.Http.Formatting.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Helpers.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Http.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Http.WebHost.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Mvc.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Optimization.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.Razor.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.WebPages.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.WebPages.Deployment.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\System.Web.WebPages.Razor.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\Antlr3.Runtime.pdb
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\obj\Debug\MobileServices.csproj.AssemblyReference.cache
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\obj\Debug\MobileServices.csproj.CoreCompileInputs.cache
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\obj\Debug\MobileServices.csproj.CopyComplete
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\obj\Debug\MobileServices.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\MobileServices\obj\Debug\MobileServices.pdb
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\MobileServices.dll.config
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\MobileServices.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\MobileServices.pdb
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\csc.exe
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\csc.exe.config
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\csc.rsp
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\csi.exe
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\csi.exe.config
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\csi.rsp
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.AppContext.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Console.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\vbc.exe
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\vbc.exe.config
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\vbc.rsp
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\Antlr3.Runtime.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\ATMDataAccess.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\EntityFramework.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\Newtonsoft.Json.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\Swashbuckle.Core.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Net.Http.Formatting.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Helpers.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Http.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Http.WebHost.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Mvc.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Optimization.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Razor.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.WebPages.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\WebActivatorEx.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\WebGrease.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\ATMDataAccess.pdb
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\ATMDataAccess.dll.config
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\EntityFramework.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\Newtonsoft.Json.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Net.Http.Formatting.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Helpers.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Http.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Http.WebHost.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Mvc.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Optimization.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.Razor.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.WebPages.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\Antlr3.Runtime.pdb
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\obj\Debug\MobileServices.csproj.AssemblyReference.cache
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\obj\Debug\MobileServices.csproj.CoreCompileInputs.cache
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\obj\Debug\MobileServices.csproj.CopyComplete
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\obj\Debug\MobileServices.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\MobileServices\obj\Debug\MobileServices.pdb

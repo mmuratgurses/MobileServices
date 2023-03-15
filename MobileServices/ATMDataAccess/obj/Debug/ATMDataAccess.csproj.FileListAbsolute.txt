@@ -1,0 +1,59 @@
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.dll
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.pdb
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.dll
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.pdb
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.dll.config
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csproj.CopyComplete
+C:\Users\burtuf\source\repos\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csprojAssemblyReference.cache
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.dll.config
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.dll
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.pdb
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csproj.AssemblyReference.cache
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csproj.CopyComplete
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.dll
+C:\Users\burtuf\Desktop\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.pdb
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.dll.config
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.pdb
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csproj.AssemblyReference.cache
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csproj.CoreCompileInputs.cache
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csproj.CopyComplete
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.dll
+C:\TFS_BILESIM\Internal\DEV\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.pdb
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.dll.config
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\ATMDataAccess.pdb
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\Swashbuckle.Core.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\System.Web.Http.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\WebActivatorEx.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\System.Web.Http.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csproj.AssemblyReference.cache
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.csproj.CopyComplete
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.dll
+C:\Users\ahmegu\Desktop\Mobile - Swagger\MobileServices\MobileServices\ATMDataAccess\obj\Debug\ATMDataAccess.pdb

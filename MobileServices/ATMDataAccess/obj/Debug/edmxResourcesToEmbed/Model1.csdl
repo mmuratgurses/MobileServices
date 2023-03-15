@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ATMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="PROBLEM_MANAGEMENT">
+    <Key>
+      <PropertyRef Name="LOG_SERIAL_NUMBER" />
+      <PropertyRef Name="TICKET_ID" />
+      <PropertyRef Name="TERMINAL_ID" />
+      <PropertyRef Name="WORKFLOW_ID" />
+      <PropertyRef Name="DEVICE_UNIT" />
+      <PropertyRef Name="PROBLEM_CODE" />
+      <PropertyRef Name="TASK_GROUP_CODE" />
+      <PropertyRef Name="TASK_USER_CODE" />
+      <PropertyRef Name="CREATE_DATE" />
+      <PropertyRef Name="PROBLEM_START_TIME" />
+      <PropertyRef Name="IS_MANUAL" />
+      <PropertyRef Name="UPDATE_DATE" />
+      <PropertyRef Name="RECORD_STATUS" />
+    </Key>
+    <Property Name="LOG_SERIAL_NUMBER" Type="Int64" Nullable="false" />
+    <Property Name="TICKET_ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TERMINAL_ID" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="WORKFLOW_ID" Type="Int64" Nullable="false" />
+    <Property Name="THIRD_PARTY_TICKET_ID" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="STATUS" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="DEVICE_UNIT" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PROBLEM_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TASK_GROUP_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TASK_USER_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CREATE_DATE" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CREATE_USER_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PROBLEM_START_TIME" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="PROBLEM_END_TIME" Type="DateTime" Precision="3" />
+    <Property Name="IS_MANUAL" Type="Boolean" Nullable="false" />
+    <Property Name="EXPLANATION" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="UPDATING_CHANNEL_CODE" Type="String" MaxLength="35" FixedLength="false" Unicode="false" />
+    <Property Name="UPDATING_TRAN_CODE" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="UPDATING_USER_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UPDATE_DATE" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="RECORD_STATUS" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="THIRD_PARTY_NAME" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="MAINTENANCE_LEVEL" Type="Int16" />
+    <Property Name="REFERANCE_NUMBER" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="STATUS_LOG_ID" Type="String" MaxLength="36" FixedLength="true" Unicode="false" />
+    <Property Name="SUPPLY_LOG_ID" Type="String" MaxLength="36" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="ATMEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PROBLEM_MANAGEMENT" EntityType="Self.PROBLEM_MANAGEMENT" />
+  </EntityContainer>
+</Schema>

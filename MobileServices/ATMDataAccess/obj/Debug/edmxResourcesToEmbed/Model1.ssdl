@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ATMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ATM.ATM.PROBLEM_MANAGEMENT' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="PROBLEM_MANAGEMENT">
+    <Key>
+      <PropertyRef Name="LOG_SERIAL_NUMBER" />
+      <PropertyRef Name="TICKET_ID" />
+      <PropertyRef Name="TERMINAL_ID" />
+      <PropertyRef Name="WORKFLOW_ID" />
+      <PropertyRef Name="DEVICE_UNIT" />
+      <PropertyRef Name="PROBLEM_CODE" />
+      <PropertyRef Name="TASK_GROUP_CODE" />
+      <PropertyRef Name="TASK_USER_CODE" />
+      <PropertyRef Name="CREATE_DATE" />
+      <PropertyRef Name="PROBLEM_START_TIME" />
+      <PropertyRef Name="IS_MANUAL" />
+      <PropertyRef Name="UPDATE_DATE" />
+      <PropertyRef Name="RECORD_STATUS" />
+    </Key>
+    <Property Name="LOG_SERIAL_NUMBER" Type="bigint" Nullable="false" />
+    <Property Name="TICKET_ID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TERMINAL_ID" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="WORKFLOW_ID" Type="bigint" Nullable="false" />
+    <Property Name="THIRD_PARTY_TICKET_ID" Type="varchar" MaxLength="100" />
+    <Property Name="STATUS" Type="varchar" MaxLength="20" />
+    <Property Name="DEVICE_UNIT" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PROBLEM_CODE" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TASK_GROUP_CODE" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TASK_USER_CODE" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CREATE_DATE" Type="datetime" Nullable="false" />
+    <Property Name="CREATE_USER_CODE" Type="varchar" MaxLength="50" />
+    <Property Name="PROBLEM_START_TIME" Type="datetime" Nullable="false" />
+    <Property Name="PROBLEM_END_TIME" Type="datetime" />
+    <Property Name="IS_MANUAL" Type="bit" Nullable="false" />
+    <Property Name="EXPLANATION" Type="varchar" MaxLength="1000" />
+    <Property Name="UPDATING_CHANNEL_CODE" Type="varchar" MaxLength="35" />
+    <Property Name="UPDATING_TRAN_CODE" Type="char" MaxLength="10" />
+    <Property Name="UPDATING_USER_CODE" Type="varchar" MaxLength="50" />
+    <Property Name="UPDATE_DATE" Type="datetime" Nullable="false" />
+    <Property Name="RECORD_STATUS" Type="char" MaxLength="1" Nullable="false" />
+    <Property Name="THIRD_PARTY_NAME" Type="varchar" MaxLength="1000" />
+    <Property Name="MAINTENANCE_LEVEL" Type="smallint" />
+    <Property Name="REFERANCE_NUMBER" Type="varchar" MaxLength="50" />
+    <Property Name="STATUS_LOG_ID" Type="char" MaxLength="36" />
+    <Property Name="SUPPLY_LOG_ID" Type="char" MaxLength="36" />
+  </EntityType>
+  <EntityContainer Name="ATMModelStoreContainer">
+    <EntitySet Name="PROBLEM_MANAGEMENT" EntityType="Self.PROBLEM_MANAGEMENT" store:Type="Tables" store:Schema="ATM">
+      <DefiningQuery>SELECT 
+    [PROBLEM_MANAGEMENT].[LOG_SERIAL_NUMBER] AS [LOG_SERIAL_NUMBER], 
+    [PROBLEM_MANAGEMENT].[TICKET_ID] AS [TICKET_ID], 
+    [PROBLEM_MANAGEMENT].[TERMINAL_ID] AS [TERMINAL_ID], 
+    [PROBLEM_MANAGEMENT].[WORKFLOW_ID] AS [WORKFLOW_ID], 
+    [PROBLEM_MANAGEMENT].[THIRD_PARTY_TICKET_ID] AS [THIRD_PARTY_TICKET_ID], 
+    [PROBLEM_MANAGEMENT].[STATUS] AS [STATUS], 
+    [PROBLEM_MANAGEMENT].[DEVICE_UNIT] AS [DEVICE_UNIT], 
+    [PROBLEM_MANAGEMENT].[PROBLEM_CODE] AS [PROBLEM_CODE], 
+    [PROBLEM_MANAGEMENT].[TASK_GROUP_CODE] AS [TASK_GROUP_CODE], 
+    [PROBLEM_MANAGEMENT].[TASK_USER_CODE] AS [TASK_USER_CODE], 
+    [PROBLEM_MANAGEMENT].[CREATE_DATE] AS [CREATE_DATE], 
+    [PROBLEM_MANAGEMENT].[CREATE_USER_CODE] AS [CREATE_USER_CODE], 
+    [PROBLEM_MANAGEMENT].[PROBLEM_START_TIME] AS [PROBLEM_START_TIME], 
+    [PROBLEM_MANAGEMENT].[PROBLEM_END_TIME] AS [PROBLEM_END_TIME], 
+    [PROBLEM_MANAGEMENT].[IS_MANUAL] AS [IS_MANUAL], 
+    [PROBLEM_MANAGEMENT].[EXPLANATION] AS [EXPLANATION], 
+    [PROBLEM_MANAGEMENT].[UPDATING_CHANNEL_CODE] AS [UPDATING_CHANNEL_CODE], 
+    [PROBLEM_MANAGEMENT].[UPDATING_TRAN_CODE] AS [UPDATING_TRAN_CODE], 
+    [PROBLEM_MANAGEMENT].[UPDATING_USER_CODE] AS [UPDATING_USER_CODE], 
+    [PROBLEM_MANAGEMENT].[UPDATE_DATE] AS [UPDATE_DATE], 
+    [PROBLEM_MANAGEMENT].[RECORD_STATUS] AS [RECORD_STATUS], 
+    [PROBLEM_MANAGEMENT].[THIRD_PARTY_NAME] AS [THIRD_PARTY_NAME], 
+    [PROBLEM_MANAGEMENT].[MAINTENANCE_LEVEL] AS [MAINTENANCE_LEVEL], 
+    [PROBLEM_MANAGEMENT].[REFERANCE_NUMBER] AS [REFERANCE_NUMBER], 
+    [PROBLEM_MANAGEMENT].[STATUS_LOG_ID] AS [STATUS_LOG_ID], 
+    [PROBLEM_MANAGEMENT].[SUPPLY_LOG_ID] AS [SUPPLY_LOG_ID]
+    FROM [ATM].[PROBLEM_MANAGEMENT] AS [PROBLEM_MANAGEMENT]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

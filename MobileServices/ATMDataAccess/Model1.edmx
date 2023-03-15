@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="ATMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'ATM.ATM.PROBLEM_MANAGEMENT' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="PROBLEM_MANAGEMENT">
+          <Key>
+            <PropertyRef Name="LOG_SERIAL_NUMBER" />
+            <PropertyRef Name="TICKET_ID" />
+            <PropertyRef Name="TERMINAL_ID" />
+            <PropertyRef Name="WORKFLOW_ID" />
+            <PropertyRef Name="DEVICE_UNIT" />
+            <PropertyRef Name="PROBLEM_CODE" />
+            <PropertyRef Name="TASK_GROUP_CODE" />
+            <PropertyRef Name="TASK_USER_CODE" />
+            <PropertyRef Name="CREATE_DATE" />
+            <PropertyRef Name="PROBLEM_START_TIME" />
+            <PropertyRef Name="IS_MANUAL" />
+            <PropertyRef Name="UPDATE_DATE" />
+            <PropertyRef Name="RECORD_STATUS" />
+          </Key>
+          <Property Name="LOG_SERIAL_NUMBER" Type="bigint" Nullable="false" />
+          <Property Name="TICKET_ID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="TERMINAL_ID" Type="varchar" MaxLength="10" Nullable="false" />
+          <Property Name="WORKFLOW_ID" Type="bigint" Nullable="false" />
+          <Property Name="THIRD_PARTY_TICKET_ID" Type="varchar" MaxLength="100" />
+          <Property Name="STATUS" Type="varchar" MaxLength="20" />
+          <Property Name="DEVICE_UNIT" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="PROBLEM_CODE" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="TASK_GROUP_CODE" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="TASK_USER_CODE" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="CREATE_DATE" Type="datetime" Nullable="false" />
+          <Property Name="CREATE_USER_CODE" Type="varchar" MaxLength="50" />
+          <Property Name="PROBLEM_START_TIME" Type="datetime" Nullable="false" />
+          <Property Name="PROBLEM_END_TIME" Type="datetime" />
+          <Property Name="IS_MANUAL" Type="bit" Nullable="false" />
+          <Property Name="EXPLANATION" Type="varchar" MaxLength="1000" />
+          <Property Name="UPDATING_CHANNEL_CODE" Type="varchar" MaxLength="35" />
+          <Property Name="UPDATING_TRAN_CODE" Type="char" MaxLength="10" />
+          <Property Name="UPDATING_USER_CODE" Type="varchar" MaxLength="50" />
+          <Property Name="UPDATE_DATE" Type="datetime" Nullable="false" />
+          <Property Name="RECORD_STATUS" Type="char" MaxLength="1" Nullable="false" />
+          <Property Name="THIRD_PARTY_NAME" Type="varchar" MaxLength="1000" />
+          <Property Name="MAINTENANCE_LEVEL" Type="smallint" />
+          <Property Name="REFERANCE_NUMBER" Type="varchar" MaxLength="50" />
+          <Property Name="STATUS_LOG_ID" Type="char" MaxLength="36" />
+          <Property Name="SUPPLY_LOG_ID" Type="char" MaxLength="36" />
+        </EntityType>
+        <EntityContainer Name="ATMModelStoreContainer">
+          <EntitySet Name="PROBLEM_MANAGEMENT" EntityType="Self.PROBLEM_MANAGEMENT" store:Type="Tables" store:Schema="ATM">
+            <DefiningQuery>SELECT 
+    [PROBLEM_MANAGEMENT].[LOG_SERIAL_NUMBER] AS [LOG_SERIAL_NUMBER], 
+    [PROBLEM_MANAGEMENT].[TICKET_ID] AS [TICKET_ID], 
+    [PROBLEM_MANAGEMENT].[TERMINAL_ID] AS [TERMINAL_ID], 
+    [PROBLEM_MANAGEMENT].[WORKFLOW_ID] AS [WORKFLOW_ID], 
+    [PROBLEM_MANAGEMENT].[THIRD_PARTY_TICKET_ID] AS [THIRD_PARTY_TICKET_ID], 
+    [PROBLEM_MANAGEMENT].[STATUS] AS [STATUS], 
+    [PROBLEM_MANAGEMENT].[DEVICE_UNIT] AS [DEVICE_UNIT], 
+    [PROBLEM_MANAGEMENT].[PROBLEM_CODE] AS [PROBLEM_CODE], 
+    [PROBLEM_MANAGEMENT].[TASK_GROUP_CODE] AS [TASK_GROUP_CODE], 
+    [PROBLEM_MANAGEMENT].[TASK_USER_CODE] AS [TASK_USER_CODE], 
+    [PROBLEM_MANAGEMENT].[CREATE_DATE] AS [CREATE_DATE], 
+    [PROBLEM_MANAGEMENT].[CREATE_USER_CODE] AS [CREATE_USER_CODE], 
+    [PROBLEM_MANAGEMENT].[PROBLEM_START_TIME] AS [PROBLEM_START_TIME], 
+    [PROBLEM_MANAGEMENT].[PROBLEM_END_TIME] AS [PROBLEM_END_TIME], 
+    [PROBLEM_MANAGEMENT].[IS_MANUAL] AS [IS_MANUAL], 
+    [PROBLEM_MANAGEMENT].[EXPLANATION] AS [EXPLANATION], 
+    [PROBLEM_MANAGEMENT].[UPDATING_CHANNEL_CODE] AS [UPDATING_CHANNEL_CODE], 
+    [PROBLEM_MANAGEMENT].[UPDATING_TRAN_CODE] AS [UPDATING_TRAN_CODE], 
+    [PROBLEM_MANAGEMENT].[UPDATING_USER_CODE] AS [UPDATING_USER_CODE], 
+    [PROBLEM_MANAGEMENT].[UPDATE_DATE] AS [UPDATE_DATE], 
+    [PROBLEM_MANAGEMENT].[RECORD_STATUS] AS [RECORD_STATUS], 
+    [PROBLEM_MANAGEMENT].[THIRD_PARTY_NAME] AS [THIRD_PARTY_NAME], 
+    [PROBLEM_MANAGEMENT].[MAINTENANCE_LEVEL] AS [MAINTENANCE_LEVEL], 
+    [PROBLEM_MANAGEMENT].[REFERANCE_NUMBER] AS [REFERANCE_NUMBER], 
+    [PROBLEM_MANAGEMENT].[STATUS_LOG_ID] AS [STATUS_LOG_ID], 
+    [PROBLEM_MANAGEMENT].[SUPPLY_LOG_ID] AS [SUPPLY_LOG_ID]
+    FROM [ATM].[PROBLEM_MANAGEMENT] AS [PROBLEM_MANAGEMENT]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ATMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="PROBLEM_MANAGEMENT">
+          <Key>
+            <PropertyRef Name="LOG_SERIAL_NUMBER" />
+            <PropertyRef Name="TICKET_ID" />
+            <PropertyRef Name="TERMINAL_ID" />
+            <PropertyRef Name="WORKFLOW_ID" />
+            <PropertyRef Name="DEVICE_UNIT" />
+            <PropertyRef Name="PROBLEM_CODE" />
+            <PropertyRef Name="TASK_GROUP_CODE" />
+            <PropertyRef Name="TASK_USER_CODE" />
+            <PropertyRef Name="CREATE_DATE" />
+            <PropertyRef Name="PROBLEM_START_TIME" />
+            <PropertyRef Name="IS_MANUAL" />
+            <PropertyRef Name="UPDATE_DATE" />
+            <PropertyRef Name="RECORD_STATUS" />
+          </Key>
+          <Property Name="LOG_SERIAL_NUMBER" Type="Int64" Nullable="false" />
+          <Property Name="TICKET_ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TERMINAL_ID" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="WORKFLOW_ID" Type="Int64" Nullable="false" />
+          <Property Name="THIRD_PARTY_TICKET_ID" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="STATUS" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="DEVICE_UNIT" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="PROBLEM_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="TASK_GROUP_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="TASK_USER_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="CREATE_DATE" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="CREATE_USER_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PROBLEM_START_TIME" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="PROBLEM_END_TIME" Type="DateTime" Precision="3" />
+          <Property Name="IS_MANUAL" Type="Boolean" Nullable="false" />
+          <Property Name="EXPLANATION" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+          <Property Name="UPDATING_CHANNEL_CODE" Type="String" MaxLength="35" FixedLength="false" Unicode="false" />
+          <Property Name="UPDATING_TRAN_CODE" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="UPDATING_USER_CODE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="UPDATE_DATE" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="RECORD_STATUS" Type="String" MaxLength="1" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="THIRD_PARTY_NAME" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+          <Property Name="MAINTENANCE_LEVEL" Type="Int16" />
+          <Property Name="REFERANCE_NUMBER" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="STATUS_LOG_ID" Type="String" MaxLength="36" FixedLength="true" Unicode="false" />
+          <Property Name="SUPPLY_LOG_ID" Type="String" MaxLength="36" FixedLength="true" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="ATMEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="PROBLEM_MANAGEMENT" EntityType="Self.PROBLEM_MANAGEMENT" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ATMModelStoreContainer" CdmEntityContainer="ATMEntities">
+          <EntitySetMapping Name="PROBLEM_MANAGEMENT">
+            <EntityTypeMapping TypeName="ATMModel.PROBLEM_MANAGEMENT">
+              <MappingFragment StoreEntitySet="PROBLEM_MANAGEMENT">
+                <ScalarProperty Name="LOG_SERIAL_NUMBER" ColumnName="LOG_SERIAL_NUMBER" />
+                <ScalarProperty Name="TICKET_ID" ColumnName="TICKET_ID" />
+                <ScalarProperty Name="TERMINAL_ID" ColumnName="TERMINAL_ID" />
+                <ScalarProperty Name="WORKFLOW_ID" ColumnName="WORKFLOW_ID" />
+                <ScalarProperty Name="THIRD_PARTY_TICKET_ID" ColumnName="THIRD_PARTY_TICKET_ID" />
+                <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+                <ScalarProperty Name="DEVICE_UNIT" ColumnName="DEVICE_UNIT" />
+                <ScalarProperty Name="PROBLEM_CODE" ColumnName="PROBLEM_CODE" />
+                <ScalarProperty Name="TASK_GROUP_CODE" ColumnName="TASK_GROUP_CODE" />
+                <ScalarProperty Name="TASK_USER_CODE" ColumnName="TASK_USER_CODE" />
+                <ScalarProperty Name="CREATE_DATE" ColumnName="CREATE_DATE" />
+                <ScalarProperty Name="CREATE_USER_CODE" ColumnName="CREATE_USER_CODE" />
+                <ScalarProperty Name="PROBLEM_START_TIME" ColumnName="PROBLEM_START_TIME" />
+                <ScalarProperty Name="PROBLEM_END_TIME" ColumnName="PROBLEM_END_TIME" />
+                <ScalarProperty Name="IS_MANUAL" ColumnName="IS_MANUAL" />
+                <ScalarProperty Name="EXPLANATION" ColumnName="EXPLANATION" />
+                <ScalarProperty Name="UPDATING_CHANNEL_CODE" ColumnName="UPDATING_CHANNEL_CODE" />
+                <ScalarProperty Name="UPDATING_TRAN_CODE" ColumnName="UPDATING_TRAN_CODE" />
+                <ScalarProperty Name="UPDATING_USER_CODE" ColumnName="UPDATING_USER_CODE" />
+                <ScalarProperty Name="UPDATE_DATE" ColumnName="UPDATE_DATE" />
+                <ScalarProperty Name="RECORD_STATUS" ColumnName="RECORD_STATUS" />
+                <ScalarProperty Name="THIRD_PARTY_NAME" ColumnName="THIRD_PARTY_NAME" />
+                <ScalarProperty Name="MAINTENANCE_LEVEL" ColumnName="MAINTENANCE_LEVEL" />
+                <ScalarProperty Name="REFERANCE_NUMBER" ColumnName="REFERANCE_NUMBER" />
+                <ScalarProperty Name="STATUS_LOG_ID" ColumnName="STATUS_LOG_ID" />
+                <ScalarProperty Name="SUPPLY_LOG_ID" ColumnName="SUPPLY_LOG_ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram DiagramId="c7bc0e2c62a247498eb8bc2be0ba3863" Name="Diagram1">
+        <EntityTypeShape EntityType="ATMModel.PROBLEM_MANAGEMENT" Width="1.5" PointX="0.5" PointY="0.5" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>
